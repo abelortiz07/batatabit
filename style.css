@@ -45,7 +45,6 @@ nav .main-menu-items a {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     display: flex;
     justify-content: flex-start;
-    
 }
 
 nav .main-menu-items .nav-icon_heart {
@@ -68,4 +67,5 @@ nav .main-menu-items .nav-icon_bag {
 
 .main-menu-items .nav-ux img {
     border-radius: 50%;
+
 }
