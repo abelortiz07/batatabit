@@ -64,3 +64,14 @@ header figure img {
     align-self: center;
 }
 
+.header__title-container h1 {
+    font-size: 2.4 rem;
+    font-weight: bold;
+    line-height: 2.6rem;
+    color: var(--white);
+}
+
+.header__title-container p {
+    margin-top: 25px;
+    font-size: 1.4rem;
+}
